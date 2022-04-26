@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://count-surfer-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">303588209155</string>
+  <string name="google_storage_bucket" translatable="false">count-surfer.appspot.com</string>
+  <string name="project_id" translatable="false">count-surfer</string>
+  <string name="google_api_key" translatable="false">AIzaSyD9rg0_5fsL9bOVQDsJaX6CeiLvMnSqGDY</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD9rg0_5fsL9bOVQDsJaX6CeiLvMnSqGDY</string>
+  <string name="google_app_id" translatable="false">1:303588209155:android:b3e309bd17a99bc04f5436</string>
+  <string name="default_web_client_id" translatable="false">303588209155-a86hv6q8m8520u8mlb02j3lgrcev5i6v.apps.googleusercontent.com</string>
+</resources>

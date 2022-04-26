@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "303588209155",
+    "firebase_url": "https://count-surfer-default-rtdb.firebaseio.com",
+    "project_id": "count-surfer",
+    "storage_bucket": "count-surfer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303588209155:android:b3e309bd17a99bc04f5436",
+        "android_client_info": {
+          "package_name": "com.funzilla.count.surfer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303588209155-a86hv6q8m8520u8mlb02j3lgrcev5i6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9rg0_5fsL9bOVQDsJaX6CeiLvMnSqGDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303588209155-a86hv6q8m8520u8mlb02j3lgrcev5i6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
