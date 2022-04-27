@@ -22,8 +22,8 @@ namespace Funzilla
 			// TODO: Init game here
 			
 			// Hide splash screen after game is initialized
-			SceneManager.Instance.HideLoading();
-			SceneManager.Instance.HideSplash();
+			SceneManager.HideLoading();
+			SceneManager.HideSplash();
 		}
 
 		internal void Play()

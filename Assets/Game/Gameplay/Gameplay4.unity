@@ -11250,6 +11250,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3319140086007661860, guid: 3d46e47483bfb5145bae18bb2e374461, type: 3}
+      propertyPath: m_Height
+      value: 0.081642374
+      objectReference: {fileID: 0}
+    - target: {fileID: 3319140086007661860, guid: 3d46e47483bfb5145bae18bb2e374461, type: 3}
+      propertyPath: m_Radius
+      value: 0.01376257
+      objectReference: {fileID: 0}
+    - target: {fileID: 3319140086007661860, guid: 3d46e47483bfb5145bae18bb2e374461, type: 3}
+      propertyPath: m_Center.x
+      value: -2.3218812e-10
+      objectReference: {fileID: 0}
+    - target: {fileID: 3319140086007661860, guid: 3d46e47483bfb5145bae18bb2e374461, type: 3}
+      propertyPath: m_Center.z
+      value: 0.0010291766
+      objectReference: {fileID: 0}
+    - target: {fileID: 3319140086007661862, guid: 3d46e47483bfb5145bae18bb2e374461, type: 3}
+      propertyPath: m_Swing1Limit.limit
+      value: 91.319336
+      objectReference: {fileID: 0}
     - target: {fileID: 3319140086007661865, guid: 3d46e47483bfb5145bae18bb2e374461, type: 3}
       propertyPath: posFoot
       value: 
@@ -11258,6 +11278,38 @@ PrefabInstance:
       propertyPath: fixedJointFoot
       value: 
       objectReference: {fileID: 1754573332}
+    - target: {fileID: 3319140086007661880, guid: 3d46e47483bfb5145bae18bb2e374461, type: 3}
+      propertyPath: m_IsKinematic
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3319140086007661881, guid: 3d46e47483bfb5145bae18bb2e374461, type: 3}
+      propertyPath: m_Height
+      value: 0.118142955
+      objectReference: {fileID: 0}
+    - target: {fileID: 3319140086007661881, guid: 3d46e47483bfb5145bae18bb2e374461, type: 3}
+      propertyPath: m_Radius
+      value: 0.011481666
+      objectReference: {fileID: 0}
+    - target: {fileID: 3319140086007661881, guid: 3d46e47483bfb5145bae18bb2e374461, type: 3}
+      propertyPath: m_Center.x
+      value: -1.4659086e-11
+      objectReference: {fileID: 0}
+    - target: {fileID: 3319140086007661881, guid: 3d46e47483bfb5145bae18bb2e374461, type: 3}
+      propertyPath: m_Center.y
+      value: 0.07415597
+      objectReference: {fileID: 0}
+    - target: {fileID: 3319140086007661881, guid: 3d46e47483bfb5145bae18bb2e374461, type: 3}
+      propertyPath: m_Center.z
+      value: 0.0005338054
+      objectReference: {fileID: 0}
+    - target: {fileID: 3319140086007661882, guid: 3d46e47483bfb5145bae18bb2e374461, type: 3}
+      propertyPath: m_LowTwistLimit.limit
+      value: -77.09206
+      objectReference: {fileID: 0}
+    - target: {fileID: 3319140086007661883, guid: 3d46e47483bfb5145bae18bb2e374461, type: 3}
+      propertyPath: m_IsKinematic
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3d46e47483bfb5145bae18bb2e374461, type: 3}
 --- !u!1001 &7665586700875812809
